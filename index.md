@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is the jorney of someone who is starting to learn how to **code**. I will share my adventurous days here.
